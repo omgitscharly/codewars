@@ -4,4 +4,4 @@ function sum (numbers) {
      } else {
        return numbers.reduce((a,c) => a + c);
      } 
-};
+}
