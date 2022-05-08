@@ -9,4 +9,4 @@ function duplicates(array){
         }
       }
     return count
-  }
+}
