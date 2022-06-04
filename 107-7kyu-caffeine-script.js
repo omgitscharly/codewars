@@ -1,6 +1,6 @@
 function caffeineBuzz(n){
     return (n % 12 === 0) ? 'CoffeeScript' :
-    (n % 6 === 0) ? 'JavaScript' :
-    (n % 3 === 0) ? 'Java' :
-    'mocha_missing!';
+        (n % 6 === 0) ? 'JavaScript' :
+        (n % 3 === 0) ? 'Java' :
+        'mocha_missing!';
 }
