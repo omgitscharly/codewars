@@ -13,5 +13,4 @@ function stairsIn20(s){
     }
     //return sum times 20
     return sum * 20;
-
 }
